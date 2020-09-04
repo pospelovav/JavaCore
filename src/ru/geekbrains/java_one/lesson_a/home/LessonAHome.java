@@ -37,7 +37,7 @@ public class LessonAHome {
             }
         }
 
-
+        
         public static void main(String[] args){
             System.out.println(computation(1, 2, 3, 4));  //вывод в консоль для проверки
             System.out.println(TorF(10, 2));
